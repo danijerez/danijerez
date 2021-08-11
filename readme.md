@@ -1,3 +1,4 @@
+# 💻 Full-Stack Dev ☕🐍🍩
 # 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
 
