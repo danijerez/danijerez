@@ -2,21 +2,22 @@
 # 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
 ## 🎨 Skills
-[![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
+[![DotNet](https://img.shields.io/badge/dotnet-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/es/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+</br>
 [![MongoDB](https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+[![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+</br>
+And more...
 
-## 🚧 Some projects
-
-|  |  |
-|---|---|
-|🛎️|[![GitHub Followers](https://img.shields.io/github/stars/danijerez/doorbell_alexa?label=doorbell%20Alexa&style=social)](https://github.com/danijerez/doorbell_alexa)|
-|😷|[![GitHub Followers](https://img.shields.io/github/stars/danijerez/doorbell_alexa?label=voicemask&style=social)](https://github.com/danijerez/voicemask)|
-|🎨|[![apiaddicts](https://img.shields.io/badge/🔗_koloro-black?style=for-the-badge)](https://danijerez.github.io/koloro)|
+## 🚧 Petit projects
+[![apiaddicts](https://img.shields.io/badge/🔔_doorbell-purple?style=for-the-badge)](https://github.com/danijerez/doorbell_alexa)
+[![apiaddicts](https://img.shields.io/badge/😷_voicemask-5C2D91?style=for-the-badge)](https://github.com/danijerez/voicemask)
+[![apiaddicts](https://img.shields.io/badge/🎨_koloro-grey?style=for-the-badge)](https://danijerez.github.io/koloro)
 
 ## 🌐 Find me at
 [![Twitter](https://img.shields.io/badge/@d4nijerez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/d4nijerez)
