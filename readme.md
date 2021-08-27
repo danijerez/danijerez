@@ -15,9 +15,13 @@
 And more...
 
 ## 🚧 Petit projects
-[![apiaddicts](https://img.shields.io/badge/🔔_doorbell-purple?style=for-the-badge)](https://github.com/danijerez/doorbell_alexa)
-[![apiaddicts](https://img.shields.io/badge/😷_voicemask-5C2D91?style=for-the-badge)](https://github.com/danijerez/voicemask)
-[![apiaddicts](https://img.shields.io/badge/🎨_koloro-grey?style=for-the-badge)](https://danijerez.github.io/koloro)
+[![doorbell](https://img.shields.io/badge/🔔_doorbell-purple?style=for-the-badge)](https://github.com/danijerez/doorbell_alexa)
+[![voicemask](https://img.shields.io/badge/😷_voicemask-5C2D91?style=for-the-badge)](https://github.com/danijerez/voicemask)
+[![sensorpir](https://img.shields.io/badge/🎅_sensor_pir-3776AB?style=for-the-badge)](https://github.com/danijerez/sensorpir_alexa)
+[![koloro](https://img.shields.io/badge/🎨_koloro-grey?style=for-the-badge)](https://danijerez.github.io/koloro)
+
+
+
 
 ## 🌐 Find me at
 [![Twitter](https://img.shields.io/badge/@d4nijerez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/d4nijerez)
@@ -25,6 +29,5 @@ And more...
 [![DeviantArt](https://img.shields.io/badge/d4nijerez-00e59b?style=for-the-badge&logo=DeviantArt&logoColor=00e59b&labelColor=101010)](https://www.deviantart.com/d4nijerez)
 
 ## ♾️ Organizations
-[![cloudappi](https://img.shields.io/badge/☁️cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
-[![apiaddicts](https://img.shields.io/badge/⚙️apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
-
+[![cloudappi](https://img.shields.io/badge/☁️_cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
+[![apiaddicts](https://img.shields.io/badge/⚙️_apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
