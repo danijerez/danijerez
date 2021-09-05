@@ -1,27 +1,30 @@
-# 💻 Full-Stack Dev ☕🐍🍩 🇪🇸
-# 👋 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
+# 👋 Hi, I'm Dani Jerez
 
-## 📜 Languages
+## 💻 Full-Stack Dev ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
+
+## 🏹 Skills
+#### 📜 Languages
 [![csharp](https://img.shields.io/badge/c_sharp-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/es/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 </br>
-and some more...
 
-## 🏹 Skills
+#### 🍪 Technologies
 [![NetCore](https://img.shields.io/badge/net_core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 </br>
-and some more...
 
-## 🧮 BBDD
+#### 🧮 BBDD
 [![MongoDB](https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![redis](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+</br>
+
+➕ and some more...
 
 ## 🚧 Petit projects
 [![doorbell](https://img.shields.io/badge/🔔_doorbell-purple?style=for-the-badge)](https://github.com/danijerez/doorbell_alexa)
