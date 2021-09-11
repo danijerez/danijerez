@@ -30,6 +30,7 @@
 [![doorbell](https://img.shields.io/badge/🔔_doorbell-purple?style=for-the-badge)](https://github.com/danijerez/doorbell_alexa)
 [![voicemask](https://img.shields.io/badge/😷_voicemask-5C2D91?style=for-the-badge)](https://github.com/danijerez/voicemask)
 [![sensorpir](https://img.shields.io/badge/🎅_sensor_pir-3776AB?style=for-the-badge)](https://github.com/danijerez/sensorpir_alexa)
+[![hourglass](https://img.shields.io/badge/⌛_hourglass-orange?style=for-the-badge)](https://github.com/danijerez/hourglass)
 [![koloro](https://img.shields.io/badge/🎨_koloro-grey?style=for-the-badge)](https://danijerez.github.io/koloro)
 
 ## 🌐 Find me at
