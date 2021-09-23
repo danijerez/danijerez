@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dani Jerez
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Dani Jerez
 
 ## 💻 Full-Stack Dev ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
@@ -39,8 +39,13 @@
 [![DeviantArt](https://img.shields.io/badge/d4nijerez-00e59b?style=for-the-badge&logo=DeviantArt&logoColor=00e59b&labelColor=101010)](https://www.deviantart.com/d4nijerez)
 [![instagram](https://img.shields.io/badge/d4nijerez__dev-purple?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/d4nijerez_dev/)
 
-
-
 ## 🌼 Organizations
 [![cloudappi](https://img.shields.io/badge/☁️_cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
 [![apiaddicts](https://img.shields.io/badge/⚙️_apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
+
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=danijerez&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=danijerez&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <br>
+  <br>
+</p>
