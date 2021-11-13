@@ -37,7 +37,7 @@
 [![Twitter](https://img.shields.io/badge/@d4nijerez-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/d4nijerez)
 [![LinkedIn](https://img.shields.io/badge/Daniel_Jerez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-jerez-garrido-886191b2/)
 [![DeviantArt](https://img.shields.io/badge/d4nijerez-00e59b?style=for-the-badge&logo=DeviantArt&logoColor=00e59b&labelColor=101010)](https://www.deviantart.com/d4nijerez)
-[![instagram](https://img.shields.io/badge/d4nijerez__dev-purple?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/d4nijerez_dev/)
+[![instagram](https://img.shields.io/badge/d4vniel-purple?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/d4vniel/)
 
 ## 🌼 Organizations
 [![cloudappi](https://img.shields.io/badge/☁️_cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
