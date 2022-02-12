@@ -10,7 +10,7 @@
 </br>
 
 #### 🍪 Technologies
-[![NetCore](https://img.shields.io/badge/net_core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
+[![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
@@ -20,7 +20,7 @@
 #### 🧮 BBDD
 [![MongoDB](https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![redis](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 </br>
 
