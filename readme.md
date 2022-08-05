@@ -1,7 +1,5 @@
 # 🤟 Hi, I'm Dani Jerez
-## 💻 Dev & 🎨 Artist ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
-
-<img src="img/goku_dev.png" height = "400"> 
+## :floppy_disk: Dev & 🎨 Artist ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
 
 ## 🏹 Skills
@@ -47,9 +45,14 @@
 [![cloudappi](https://img.shields.io/badge/☁️_cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
 [![apiaddicts](https://img.shields.io/badge/⚙️_apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=danijerez&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=danijerez&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-  <br>
-</p>
+<table>
+  <tr>
+    <th><img src="img/goku_dev.png" width = "400"> <p align="center"></th>
+    <th>  
+        <img src ="https://github-readme-stats.vercel.app/api?username=danijerez&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=danijerez&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+    </p>
+    </th>
+  </tr>
+</table>
+
