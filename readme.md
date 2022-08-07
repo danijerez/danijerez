@@ -3,19 +3,16 @@
 
 <img src='imgs/goku_dev.png' width = '400' align='left'>
 
-#### 🏹 `Languages`
 
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-  <img align="left" alt="csharp" width="32px" src="icons/csharp.svg" />
-</a>
-<a href="https://www.java.com/es/">
-  <img align="left" alt="java" width="32px" src="icons/java.png" />
-</a>
-<a href="https://www.python.org">
-  <img align="left" alt="python" width="32px" src="icons/python.png" />
-</a>
-<br>
-<br>
+#### 🏹 `Languages`
+<table>
+</tr>
+   <tr>
+      <td><img align="left" alt="csharp" width="22px" src="icons/csharp.svg" />C#</td>
+      <td><img align="left" alt="java" width="22px" src="icons/java.png" />java</td>
+      <td><img align="left" alt="python" width="22px" src="icons/python.png" />python</td>
+   </tr>
+</table>
 
 #### 🍪 `Technologies`
 [![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
@@ -49,10 +46,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danijerez.danijerez)
 
+<hr>
 <details>
   <summary>
-  
-## 🚧 *petit* `projects`
+ 
+ ## 🚧 *petit* `projects`
 
 </summary>
   <br/>
@@ -60,38 +58,44 @@
   <table>
    <tr>
       <td><a href="https://github.com/danijerez/doorbell_alexa">🔔 doorbell alexa</a></td>
-      <td>ardunino device that notifies with alexa when the doorbell rings</td>
-      <td><img width = '15' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg"></td>
+      <td>arduino device that notifies with alexa when the doorbell rings</td>
+      <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg"></td>
+      <td><img width = '20' src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"></td>
    </tr>
 
    <tr>
       <td><a href="https://github.com/danijerez/voicemask">🎭 voicemask</a></td>
-      <td>Arduino electronic mask that shows expressions in led matrix according to sound</td>
-      <td><img width = '15' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg"></td>
+      <td>arduino electronic mask that shows expressions in led matrix according to sound</td>
+      <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg"></td>
+      <td><img width = '20' src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"></td>
    </tr>
    
    <tr>
       <td><a href="https://github.com/danijerez/voicemask">🎅 sensor pir</a></td>
-      <td>ardunino device that notifies with alexa when there is movement</td>
-      <td><img width = '15' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg"></td>
+      <td>arduino device that notifies with alexa when there is movement</td>
+      <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/es.svg"></td>
+      <td><img width = '20' src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"></td>
    </tr>
    
    <tr>
       <td><a href="https://github.com/danijerez/voicemask">⌛ hourglass</a></td>
       <td>ardunino device digital hourglass</td>
-      <td><img width = '15' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
+      <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
+      <td><img width = '20' src="https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png"></td>
    </tr>
    
    <tr>
       <td><a href="https://danijerez.github.io/koloro">🎨 koloro</a></td>
       <td>web to download drawings for colors (pokemon, digimon, etc)</td>
-      <td><img width = '15' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
+      <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
+      <td><img width = '20' src="icons/csharp.svg"><img width = '20' src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png"><img width = '20' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"><img width = '20' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></td>
    </tr>
    
    <tr>
       <td><a href="https://github.com/danijerez/envload">📺 envload</a></td>
       <td>portable program to load environment variables in the operating system</td>
-      <td><img width = '15' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
+      <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
+      <td><img height = '20' src="https://cdn.icon-icons.com/icons2/2530/PNG/512/csharp_dotnet_button_icon_151936.png"></td>
    </tr>
    
 </table>
