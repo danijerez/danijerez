@@ -30,10 +30,10 @@
 ####  🌼 `Organizations`
 
 <a href="https://cloudappi.net/">
-  <img align="left" alt="linkedin" height="50px" src="icons/cloudappi.png" />
+  <img align="left" alt="linkedin" height="40px" src="icons/cloudappi.png" />
 </a>
 <a href="https://www.apiaddicts.org/">
-  <img align="left" alt="linkedin" height="50px" src="icons/apiaddicts.png" />
+  <img align="left" alt="linkedin" height="40px" src="icons/apiaddicts.png" />
 </a>
 <br>
 <br>
