@@ -1,12 +1,21 @@
 # 🤟 Hi, I'm Dani Jerez
 ## :floppy_disk: Dev & 🎨 Artist ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
-<img src='img/goku_dev.png' width = '400' align='left'>
+<img src='imgs/goku_dev.png' width = '400' align='left'>
 
 #### 🏹 `Languages`
-[![csharp](https://img.shields.io/badge/c_sharp-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/es/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+  <img align="left" alt="csharp" width="32px" src="icons/csharp.svg" />
+</a>
+<a href="https://www.java.com/es/">
+  <img align="left" alt="java" width="32px" src="icons/java.png" />
+</a>
+<a href="https://www.python.org">
+  <img align="left" alt="python" width="32px" src="icons/python.png" />
+</a>
+<br>
+<br>
 
 #### 🍪 `Technologies`
 [![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
@@ -26,16 +35,16 @@
 [![apiaddicts](https://img.shields.io/badge/⚙️_apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
 
 <a href="https://www.instagram.com/d4vniel/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="instagram" width="22px" src="icons/instagram.png" />
 </a>
 <a href="https://www.deviantart.com/d4nijerez">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="deviantart" width="22px" src="icons/deviantart.png" />
 </a>
 <a href="https://twitter.com/d4nijerez">
-  <img align="left" alt="d4nijerez | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="twitter" width="22px" src="icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/daniel-jerez-garrido-886191b2">
-  <img align="left" alt="danijerez" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="linkedin" width="22px" src="icons/linkedin.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danijerez.danijerez)
