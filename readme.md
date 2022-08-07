@@ -28,9 +28,15 @@
 [![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
 ####  🌼 `Organizations`
-[![cloudappi](https://img.shields.io/badge/☁️_cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
-[![apiaddicts](https://img.shields.io/badge/⚙️_apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
 
+<a href="https://cloudappi.net/">
+  <img align="left" alt="linkedin" height="50px" src="icons/cloudappi.png" />
+</a>
+<a href="https://www.apiaddicts.org/">
+  <img align="left" alt="linkedin" height="50px" src="icons/apiaddicts.png" />
+</a>
+<br>
+<br>
 <hr>
 
 <a href="https://www.instagram.com/d4vniel/">
