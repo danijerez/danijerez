@@ -31,6 +31,8 @@
 [![cloudappi](https://img.shields.io/badge/☁️_cloudappi-white?style=for-the-badge&labelColor=white)](https://www.cloudappi.net/)
 [![apiaddicts](https://img.shields.io/badge/⚙️_apiaddicts-bf1835?style=for-the-badge&labelColor=101010)](https://apiaddicts.org/)
 
+<hr>
+
 <a href="https://www.instagram.com/d4vniel/">
   <img align="left" alt="instagram" width="22px" src="icons/instagram.png" />
 </a>
@@ -46,7 +48,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=danijerez.danijerez)
 
-<hr>
+
 <details>
   <summary>
  
