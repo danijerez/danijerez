@@ -5,14 +5,17 @@
 
 
 #### 🏹 `Languages`
-<table>
-</tr>
-   <tr>
-      <td><img align="left" alt="csharp" width="22px" src="icons/csharp.svg" />C#</td>
-      <td><img align="left" alt="java" width="22px" src="icons/java.png" />java</td>
-      <td><img align="left" alt="python" width="22px" src="icons/python.png" />python</td>
-   </tr>
-</table>
+
+<a href="https://docs.microsoft.com/es-es/dotnet/csharp/">
+  <img align="left" alt="csharp" width="30px" src="icons/csharp.svg" />
+</a>
+<a href="https://www.java.com/es/">
+  <img align="left" alt="java" width="30px" src="icons/java.png" />
+</a>
+<a href="https://www.python.org/downloads/">
+  <img align="left" alt="python" width="30px" src="icons/python.png" />
+</a>
+<br>
 
 #### 🍪 `Technologies`
 [![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
