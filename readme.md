@@ -115,18 +115,18 @@
 
  ## 🤖 Stable Diffusion
 
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/1.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/2.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/3.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/4.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/5.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/6.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/7.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/8.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/9.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/10.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/11.png" />
-<img align="left" alt="linkedin" width="22%" src="imgs/ia/12.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/1.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/2.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/3.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/4.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/5.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/6.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/7.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/8.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/9.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/10.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/11.png" />
+<img align="left" alt="linkedin" width="23%" src="imgs/ia/12.png" />
 
 
 
