@@ -113,7 +113,7 @@
 
 </details> 
 
- ## 🤖 Stable Diffusion
+ ## 🤖 `me` stable diffusion
 
 <img align="left" alt="linkedin" width="22%" src="imgs/ia/1.png" />
 <img align="left" alt="linkedin" width="22%" src="imgs/ia/2.png" />
