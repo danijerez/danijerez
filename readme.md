@@ -103,8 +103,8 @@
    </tr>
    
    <tr>
-      <td><a href="https://github.com/danijerez/envload">📺 envload</a></td>
-      <td>portable program to load environment variables in the operating system</td>
+      <td><a href="https://github.com/danijerez/updater">📦 updater</a></td>
+      <td>little solution to update apps</td>
       <td><img width = '20' src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/us.svg"></td>
       <td><img height = '20' src="https://cdn.icon-icons.com/icons2/2530/PNG/512/csharp_dotnet_button_icon_151936.png"></td>
    </tr>
