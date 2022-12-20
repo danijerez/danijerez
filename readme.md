@@ -4,33 +4,26 @@
 <img src='imgs/goku_dev.png' width = '400' align='left'>
 
 
-#### 🏹 `Languages`
+### 🏹 `Languages`
 
-<a href="https://docs.microsoft.com/es-es/dotnet/csharp/">
-  <img align="left" alt="csharp" width="30px" src="icons/csharp.svg" />
-</a>
-<a href="https://www.java.com/es/">
-  <img align="left" alt="java" width="30px" src="icons/java.png" />
-</a>
-<a href="https://www.python.org/downloads/">
-  <img align="left" alt="python" width="30px" src="icons/python.png" />
-</a>
-<br>
+[![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dotnet.microsoft.com/)
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://dotnet.microsoft.com/)
 
-#### 🍪 `Technologies`
-[![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/es-es/aspnet/core/)
+### 🍪 `Technologies`
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 
-#### 🧮 `Databases`
+### 🧮 `Databases`
 [![MongoDB](https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
-####  🌼 `Organizations`
+###  🌼 `Organizations`
 
 <a href="https://cloudappi.net/">
   <img align="left" alt="linkedin" height="30px" src="icons/cloudappi.png" />
@@ -64,7 +57,6 @@
  ## 🚧 *petit* `projects`
 
 </summary>
-  <br/>
   
   <table>
    <tr>
@@ -112,9 +104,12 @@
 </table>
 
 </details> 
-
+<details> 
+  <summary>
+  
  ## 🤖 `me` stable diffusion
-
+ 
+</summary>
 <img align="left" alt="linkedin" width="17%" src="imgs/ia/1.png" />
 <img align="left" alt="linkedin" width="17%" src="imgs/ia/2.png" />
 <img align="left" alt="linkedin" width="17%" src="imgs/ia/3.png" />
@@ -135,7 +130,7 @@
 <img align="left" alt="linkedin" width="17%" src="imgs/ia/18.png" />
 <img align="left" alt="linkedin" width="17%" src="imgs/ia/19.png" />
 <img align="left" alt="linkedin" width="17%" src="imgs/ia/20.png" />
-
+</details> 
 
 
 
