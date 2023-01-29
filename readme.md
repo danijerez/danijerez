@@ -1,35 +1,35 @@
-# 🤟 Hi, I'm Dani Jerez
-## :floppy_disk: Dev & 🎨 Artist ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
+# 🖖 Hi, I'm Dani Jerez
+## 👨‍💻 Dev & 👨‍🎨 Artist ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
 <img src='imgs/goku_dev.png' width = '400' align='left'>
 
 
-### 🏹 `Languages`
+### 🧙‍♂️ `Languages`
 
-[![cs](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
-[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/es/)
-[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![cs](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
+[![java](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://www.java.com/es/)
+[![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-### 🍪 `Technologies`
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-[![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+### 📱 `Technologies`
+[![.NET](https://img.shields.io/badge/DotNet-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+[![Arduino](https://img.shields.io/badge/Arduino-008184?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
 
 ### 🧮 `Databases`
-[![MongoDB](https://img.shields.io/badge/Mongo-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)](https://redis.io/)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
 ###  🌼 `Organizations`
 
 <a href="https://cloudappi.net/">
-  <img align="left" alt="linkedin" height="30px" src="icons/cloudappi.png" />
+  <img align="left" alt="linkedin" height="25px" src="icons/cloudappi.png" />
 </a>
 <a href="https://www.apiaddicts.org/">
-  <img align="left" alt="linkedin" height="30px" src="icons/apiaddicts.png" />
+  <img align="left" alt="linkedin" height="25px" src="icons/apiaddicts.png" />
 </a>
 <br>
 <br>
