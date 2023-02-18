@@ -23,13 +23,13 @@
 [![redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)](https://redis.io/)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 
-###  🌼 `Organizations`
+###  🌍 `Organizations`
 
 <a href="https://cloudappi.net/">
-  <img align="left" alt="linkedin" height="25px" src="icons/cloudappi.png" />
+  <img align="left" alt="linkedin" height="40px" src="icons/cloudappi.png" />
 </a>
 <a href="https://www.apiaddicts.org/">
-  <img align="left" alt="linkedin" height="25px" src="icons/apiaddicts.png" />
+  <img align="left" alt="linkedin" height="40px" src="icons/apiaddicts.png" />
 </a>
 <br>
 <br>
