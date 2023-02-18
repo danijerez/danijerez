@@ -25,12 +25,8 @@
 
 ###  🌍 `Organizations`
 
-<a href="https://cloudappi.net/">
-  <img align="left" alt="linkedin" height="40px" src="icons/cloudappi.png" />
-</a>
-<a href="https://www.apiaddicts.org/">
-  <img align="left" alt="linkedin" height="40px" src="icons/apiaddicts.png" />
-</a>
+<img align="left" alt="linkedin" height="25px" src="icons/org.png" />
+
 <br>
 <br>
 <br>
