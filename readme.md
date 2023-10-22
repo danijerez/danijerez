@@ -5,7 +5,7 @@
    <img src='imgs/goku_dev.png' width = '400'>
 </p>
 
-# 🧙‍♂️ `Technologies`
+## 🧙‍♂️ Technologies
 
   <table>
    <tr>
@@ -49,12 +49,12 @@
          <img src="https://img.shields.io/badge/Python-★★★-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010">
       </td>
       <td>
+         maybe a few more...
       </td>
    </tr>
 </table>
 
-
-# 🔄 `WIP`
+## 🔄 WIP
 
   <table>
    <tr>
@@ -71,7 +71,7 @@
 
 </table>
 
-# 🚧 *petit* `projects`
+## 🚧 *petit* `projects`
 
 </summary>
   
@@ -120,7 +120,7 @@
    
 </table>
 
-# 🥷 DotNet ~ Reviewer
+## 🥷 DotNet `Reviewer`
 
 <p align="center">
 	<a href="https://ninjatalent.net/">
@@ -128,7 +128,7 @@
 	</a>
 </p>
 
-# 🎨 Art ~ Gallery
+# 🎨 Art `Gallery`
 
 <p align="center">
 	<a href="https://www.deviantart.com/d4nijerez">
@@ -136,8 +136,7 @@
 	</a>
 </p>
 
-
-# 🌱 Collaborations
+## 🌱 Collaborations
 
 <p align="center">
 	<a href="https://apiaddicts.org/">
