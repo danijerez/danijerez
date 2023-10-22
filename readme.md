@@ -6,8 +6,8 @@
 </p>
 
 ## 🧙‍♂️ Technologies
-<p align="center">
-  <table border=0>
+
+  <table>
    <tr>
       <td>
          <img src="https://img.shields.io/badge/Csharp-★★★★★-512BD4?logo=Csharp&style=for-the-badge&logoColor=white&labelColor=101010">
@@ -53,7 +53,6 @@
       </td>
    </tr>
 </table>
-<p>
 
 ## 🔄 WIP
 
