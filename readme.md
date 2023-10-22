@@ -1,58 +1,77 @@
 # 🖖 Hi, I'm Dani Jerez
 ## 👨‍💻 Dev & 👨‍🎨 Artist ☕🐍🍩 [![Twitter Follow](https://img.shields.io/twitter/follow/d4nijerez?style=social)](https://twitter.com/d4nijerez) ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social)
 
-<img src='imgs/goku_dev.png' width = '400' align='left'>
+<p align="center">
+   <img src='imgs/goku_dev.png' width = '400'>
+</p>
+
+# 🧙‍♂️ `Technologies`
+
+  <table>
+   <tr>
+      <td>
+         <img src="https://img.shields.io/badge/Csharp-★★★★★-512BD4?logo=Csharp&style=for-the-badge&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/blazor-★★★-512BD4?logo=blazor&style=for-the-badge&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/DotNet-★★★★-512BD4?logo=DotNet&style=for-the-badge&logoColor=white&labelColor=101010">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img src="https://img.shields.io/badge/Java-★★★★-437291?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/Spring-★★★★-6DB33F?style=for-the-badge&logo=Spring&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/Kotlin-★★★-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010">
+      </td>
+   </tr>
+      <tr>
+      <td>
+         <img src="https://img.shields.io/badge/Html-★★★-E34F26?style=for-the-badge&logo=Html5&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/Css-★★-1572B6?style=for-the-badge&logo=Css3&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/javascript-★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010">
+      </td>
+   </tr>
+   <tr>
+      <td>
+         <img src="https://img.shields.io/badge/Arduino-★★-00878F?style=for-the-badge&logo=arduino&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+         <img src="https://img.shields.io/badge/Python-★★★-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010">
+      </td>
+      <td>
+      </td>
+   </tr>
+</table>
 
 
-### 🧙‍♂️ `Languages`
+# 🔄 `WIP`
 
-[![cs](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
-[![java](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://www.java.com/es/)
-[![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+  <table>
+   <tr>
+      <td><a href="https://github.com/apiaddicts/apigen.net/">🍩 apigen dotnet</a></td>
+      <td>archetype generator in .net c# based on an openapi</td>
+      <td><img width = '20' src="icons/csharp.svg"><img width = '20' src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png"><img width = '20' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"><img width = '20' src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"></td>
+   </tr>
 
-### 📱 `Technologies`
-[![.NET](https://img.shields.io/badge/DotNet-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/)
-[![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
-[![Blazor](https://img.shields.io/badge/Blazor-5C2D91?style=flat&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-[![Arduino](https://img.shields.io/badge/Arduino-008184?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
+   <tr>
+      <td><a href="https://app.roombikit.com/">🤖 roombikit</a></td>
+      <td>tool to program routines to a robot from blockly</td>
+      <td><img height = '20' src="https://cdn.icon-icons.com/icons2/2530/PNG/512/csharp_dotnet_button_icon_151936.png"></td>
+   </tr>
 
-### 🧮 `Databases`
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white)](https://redis.io/)
-[![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
+</table>
 
-###  🌍 `Organizations`
-
-<img align="left" alt="linkedin" height="25px" src="icons/org.png" />
-
-<br>
-<br>
-<br>
-<br>
-<hr>
-
-<a href="https://www.instagram.com/d4vniel/">
-  <img align="left" alt="instagram" width="22px" src="icons/instagram.png" />
-</a>
-<a href="https://www.deviantart.com/d4nijerez">
-  <img align="left" alt="deviantart" width="22px" src="icons/deviantart.png" />
-</a>
-<a href="https://twitter.com/d4nijerez">
-  <img align="left" alt="twitter" width="22px" src="icons/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/daniel-jerez-garrido-886191b2">
-  <img align="left" alt="linkedin" width="22px" src="icons/linkedin.png" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=danijerez.danijerez)
-
-
-<details>
-  <summary>
- 
- ## 🚧 *petit* `projects`
+# 🚧 *petit* `projects`
 
 </summary>
   
@@ -101,34 +120,27 @@
    
 </table>
 
-</details> 
-<details> 
-  <summary>
-  
- ## 🤖 `me` stable diffusion
- 
-</summary>
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/1.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/2.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/3.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/4.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/5.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/6.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/7.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/8.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/9.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/10.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/11.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/12.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/13.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/14.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/15.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/16.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/17.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/18.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/19.png" />
-<img align="left" alt="linkedin" width="17%" src="imgs/ia/20.png" />
-</details> 
+# 🥷 DotNet ~ Reviewer
+
+<p align="center">
+	<a href="https://ninjatalent.net/">
+    	<img width = '20%' src="https://ninjatalent.net/wp-content/uploads/2023/06/Logo-Ninja-Talent-1024x672.png" href= "https://ninjatalent.net/">
+	</a>
+</p>
+
+# 🎨 Art ~ Gallery
+
+<p align="center">
+	<a href="https://www.deviantart.com/d4nijerez">
+    	<img width = '20%' src="icons/deviantart.png" href= "https://ninjatalent.net/">
+	</a>
+</p>
 
 
+# 🌱 Collaborations
 
+<p align="center">
+	<a href="https://apiaddicts.org/">
+    	<img src="icons/org.png" alt="cloudappi" width="45%"/>
+	</a>
+</p>
