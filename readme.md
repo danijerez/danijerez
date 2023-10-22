@@ -6,8 +6,8 @@
 </p>
 
 ## 🧙‍♂️ Technologies
-
-  <table>
+<p align="center">
+  <table border=0>
    <tr>
       <td>
          <img src="https://img.shields.io/badge/Csharp-★★★★★-512BD4?logo=Csharp&style=for-the-badge&logoColor=white&labelColor=101010">
@@ -53,7 +53,7 @@
       </td>
    </tr>
 </table>
-
+<p>
 ## 🔄 WIP
 
   <table>
@@ -128,7 +128,7 @@
 	</a>
 </p>
 
-# 🎨 Art `Gallery`
+## 🎨 Art `Gallery`
 
 <p align="center">
 	<a href="https://www.deviantart.com/d4nijerez">
