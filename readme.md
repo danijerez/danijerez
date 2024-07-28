@@ -1,18 +1,18 @@
-# 🖖 Hi, I'm Dani Jerez
-## 👨‍💻 Dev & 🧙‍♂️ Geek 🍩🐍☕ 
-![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social) [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?&logo=deviantart&logoColor=white)](https://www.deviantart.com/d4nijerez)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d4nijerez/)
+# 🖖 Hi, I'm Dani Jerez ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social) [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?&logo=deviantart&logoColor=white)](https://www.deviantart.com/d4nijerez)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d4nijerez/)
+<img align="left"  src='imgs/goku_dev.png' height="300" >
 
- 
-<img align="center"  src='imgs/goku_dev.png' height="300" >
+
+
+### 👨‍💻 Dev & 🧙‍♂️ Geek 🍩🐍☕ 
 
 ![dotnet](https://img.shields.io/badge/csharp-512BD4?logo=dotnet&logoColor=white)
 ![python](https://img.shields.io/badge/python-FFD43B?&logo=python&logoColor=blue)
 ![java](https://img.shields.io/badge/java-ED8B00?&logo=openjdk&logoColor=white)
 ![langchain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
 
-
 <details>
 <summary>🚧 petit projects</summary>
+ 
   <table>
 
    <tr>
