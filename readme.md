@@ -1,14 +1,17 @@
 # 🖖 Hi, I'm Dani Jerez ![GitHub Followers](https://img.shields.io/github/followers/danijerez?style=social) [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?&logo=deviantart&logoColor=white)](https://www.deviantart.com/d4nijerez)  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d4nijerez/)
 <img align="left"  src='imgs/goku_dev.png' height="300" >
 
-
-
 ### 👨‍💻 Dev & 🧙‍♂️ Geek 🍩🐍☕ 
-
-![dotnet](https://img.shields.io/badge/csharp-512BD4?logo=dotnet&logoColor=white)
-![python](https://img.shields.io/badge/python-FFD43B?&logo=python&logoColor=blue)
-![java](https://img.shields.io/badge/java-ED8B00?&logo=openjdk&logoColor=white)
+![dotnet](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=blue)
+![java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
 ![langchain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=fff&style=flat)
+
+### 🤝 Colabs 
+[![apiaddicts](https://img.shields.io/badge/⚙️-APIAddicts-red)](https://www.apiaddicts.org/) [![cloudappi](https://img.shields.io/badge/☁️-CloudAPPi-00BBD3)](https://cloudappi.net/) 
+
+### 🌐 OpenSource
+[![langchain-dotnet](https://img.shields.io/badge/LangChain-.NET-512BD4?logo=langchain&logoColor=#F70A8D&style=flat)](https://github.com/tryAGI/LangChain)
 
 <details>
 <summary>🚧 petit projects</summary>
